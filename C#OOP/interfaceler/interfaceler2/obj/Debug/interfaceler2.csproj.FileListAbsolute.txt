@@ -1,0 +1,8 @@
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\bin\Debug\interfaceler2.exe.config
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\bin\Debug\interfaceler2.exe
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\bin\Debug\interfaceler2.pdb
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\obj\Debug\interfaceler2.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\obj\Debug\interfaceler2.csproj.SuggestedBindingRedirects.cache
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\obj\Debug\interfaceler2.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\obj\Debug\interfaceler2.exe
+C:\Users\OmerSarlavuk\source\repos\interfaceler\interfaceler2\obj\Debug\interfaceler2.pdb

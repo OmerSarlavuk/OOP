@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\LinqBasics\LinqBasics\bin\Debug\LinqBasics.exe.config
+C:\Users\Public\Source2\LinqBasics\LinqBasics\bin\Debug\LinqBasics.exe
+C:\Users\Public\Source2\LinqBasics\LinqBasics\bin\Debug\LinqBasics.pdb
+C:\Users\Public\Source2\LinqBasics\LinqBasics\obj\Debug\LinqBasics.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\LinqBasics\LinqBasics\obj\Debug\LinqBasics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\LinqBasics\LinqBasics\obj\Debug\LinqBasics.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\LinqBasics\LinqBasics\obj\Debug\LinqBasics.exe
+C:\Users\Public\Source2\LinqBasics\LinqBasics\obj\Debug\LinqBasics.pdb

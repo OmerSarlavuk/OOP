@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\Oftype\Except,Union,vs\bin\Debug\Except,Union,vs.exe.config
+C:\Users\Public\Source2\Oftype\Except,Union,vs\bin\Debug\Except,Union,vs.exe
+C:\Users\Public\Source2\Oftype\Except,Union,vs\bin\Debug\Except,Union,vs.pdb
+C:\Users\Public\Source2\Oftype\Except,Union,vs\obj\Debug\Except,Union,Concat.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Oftype\Except,Union,vs\obj\Debug\Except,Union,Concat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\Oftype\Except,Union,vs\obj\Debug\Except,Union,Concat.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Oftype\Except,Union,vs\obj\Debug\Except,Union,vs.exe
+C:\Users\Public\Source2\Oftype\Except,Union,vs\obj\Debug\Except,Union,vs.pdb

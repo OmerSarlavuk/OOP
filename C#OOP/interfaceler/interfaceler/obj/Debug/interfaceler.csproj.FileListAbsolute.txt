@@ -1,0 +1,8 @@
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\bin\Debug\interfaceler.exe.config
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\bin\Debug\interfaceler.exe
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\bin\Debug\interfaceler.pdb
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\obj\Debug\interfaceler.csproj.AssemblyReference.cache
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\obj\Debug\interfaceler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\obj\Debug\interfaceler.csproj.CoreCompileInputs.cache
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\obj\Debug\interfaceler.exe
+C:\Users\ömer şarlavuk\source\repos\interfaceler\interfaceler\obj\Debug\interfaceler.pdb

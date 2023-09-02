@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\Oftype\Orderby\bin\Debug\Orderby.exe.config
+C:\Users\Public\Source2\Oftype\Orderby\bin\Debug\Orderby.exe
+C:\Users\Public\Source2\Oftype\Orderby\bin\Debug\Orderby.pdb
+C:\Users\Public\Source2\Oftype\Orderby\obj\Debug\Orderby.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Oftype\Orderby\obj\Debug\Orderby.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\Oftype\Orderby\obj\Debug\Orderby.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Oftype\Orderby\obj\Debug\Orderby.exe
+C:\Users\Public\Source2\Oftype\Orderby\obj\Debug\Orderby.pdb

@@ -1,0 +1,11 @@
+C:\Users\Public\Source2\ADO.Net\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\Public\Source2\ADO.Net\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\Public\Source2\ADO.Net\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.cache
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\Public\Source2\ADO.Net\ADO.NET\obj\Debug\ADO.NET.pdb

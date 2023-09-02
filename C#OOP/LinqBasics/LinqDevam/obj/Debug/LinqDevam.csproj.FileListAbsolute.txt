@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\LinqBasics\LinqDevam\bin\Debug\LinqDevam.exe.config
+C:\Users\Public\Source2\LinqBasics\LinqDevam\bin\Debug\LinqDevam.exe
+C:\Users\Public\Source2\LinqBasics\LinqDevam\bin\Debug\LinqDevam.pdb
+C:\Users\Public\Source2\LinqBasics\LinqDevam\obj\Debug\LinqDevam.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\LinqBasics\LinqDevam\obj\Debug\LinqDevam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\LinqBasics\LinqDevam\obj\Debug\LinqDevam.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\LinqBasics\LinqDevam\obj\Debug\LinqDevam.exe
+C:\Users\Public\Source2\LinqBasics\LinqDevam\obj\Debug\LinqDevam.pdb

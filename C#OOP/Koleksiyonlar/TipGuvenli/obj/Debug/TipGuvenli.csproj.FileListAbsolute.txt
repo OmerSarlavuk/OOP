@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\bin\Debug\TipGuvenli.exe.config
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\bin\Debug\TipGuvenli.exe
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\bin\Debug\TipGuvenli.pdb
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\obj\Debug\TipGuvenli.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\obj\Debug\TipGuvenli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\obj\Debug\TipGuvenli.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\obj\Debug\TipGuvenli.exe
+C:\Users\Public\Source2\Koleksiyonlar\TipGuvenli\obj\Debug\TipGuvenli.pdb

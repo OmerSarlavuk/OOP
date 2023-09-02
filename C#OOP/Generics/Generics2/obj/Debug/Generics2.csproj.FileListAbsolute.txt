@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\Generics\Generics2\bin\Debug\Generics2.exe.config
+C:\Users\Public\Source2\Generics\Generics2\bin\Debug\Generics2.exe
+C:\Users\Public\Source2\Generics\Generics2\bin\Debug\Generics2.pdb
+C:\Users\Public\Source2\Generics\Generics2\obj\Debug\Generics2.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Generics\Generics2\obj\Debug\Generics2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\Generics\Generics2\obj\Debug\Generics2.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Generics\Generics2\obj\Debug\Generics2.exe
+C:\Users\Public\Source2\Generics\Generics2\obj\Debug\Generics2.pdb

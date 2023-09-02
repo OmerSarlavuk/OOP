@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\Oftype\Oftype\bin\Debug\Oftype.exe.config
+C:\Users\Public\Source2\Oftype\Oftype\bin\Debug\Oftype.exe
+C:\Users\Public\Source2\Oftype\Oftype\bin\Debug\Oftype.pdb
+C:\Users\Public\Source2\Oftype\Oftype\obj\Debug\Oftype.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Oftype\Oftype\obj\Debug\Oftype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\Oftype\Oftype\obj\Debug\Oftype.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Oftype\Oftype\obj\Debug\Oftype.exe
+C:\Users\Public\Source2\Oftype\Oftype\obj\Debug\Oftype.pdb

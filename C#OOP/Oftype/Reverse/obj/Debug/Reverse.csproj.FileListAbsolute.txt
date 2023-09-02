@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\Oftype\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\Public\Source2\Oftype\Reverse\bin\Debug\Reverse.exe
+C:\Users\Public\Source2\Oftype\Reverse\bin\Debug\Reverse.pdb
+C:\Users\Public\Source2\Oftype\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Oftype\Reverse\obj\Debug\Reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\Oftype\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Oftype\Reverse\obj\Debug\Reverse.exe
+C:\Users\Public\Source2\Oftype\Reverse\obj\Debug\Reverse.pdb
